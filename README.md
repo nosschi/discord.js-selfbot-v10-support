@@ -1,19 +1,19 @@
-## About
+## abt
 
 - ts shi is a fork of https://github.com/aiko-chan-ai/discord.js-selfbot-v13, ts nigga despreciated that 🤣🤣🤣
 - discord api v10 support, not v9
 
 
-## Features 
-- [x] Message
-- [x] ClientUser: Status, Activity, RemoteAuth, etc.
-- [X] Guild: Fetch Members, Join / Leave, Top emojis, etc.
-- [X] Interactions: Slash Commands, Buttons, Menu, Modal.
-- [X] Captcha & TOTP Handler
-- [X] Documentation
-- [x] Voice & Video
+## features (user)
+- [x] message
+- [x] clientuser: status, activity, remoteauth, etc.
+- [x] guild: fetch members, join / leave, top emojis, etc.
+- [x] interactions: slash commands, buttons, menu, modal.
+- [x] captcha & totp handler
+- [x] documentation
+- [x] voice & video
 
-## Installation
+## installation
 
 > **node.js 20.18.0 or newer is required**
 
@@ -21,7 +21,7 @@
 npm install nosschi/discord.js-selfbot-v10-support
 ```
 
-## Example
+## example
 
 ```js
 const { Client } = require('discord.js-selfbot-v13');
@@ -35,7 +35,7 @@ client.login('token');
 ```
 
 
-## Contributing
+## contributing
 
 - original lib: https://github.com/discordjs/discord.js
 - forked from: https://github.com/aiko-chan-ai/discord.js-selfbot-v13 (despreciated) 
