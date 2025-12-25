@@ -68,7 +68,7 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 
 ## Contributing
 
-original lib: https://github.com/discordjs/discord.js
-forked from: https://github.com/aiko-chan-ai/discord.js-selfbot-v13 (despreciated
+- original lib: https://github.com/discordjs/discord.js
+- forked from: https://github.com/aiko-chan-ai/discord.js-selfbot-v13 (despreciated
 
 @nosschi :3
