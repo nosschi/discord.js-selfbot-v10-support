@@ -25,7 +25,7 @@ npm install debug werift-rtp
 ## example
 
 ```js
-const { Client } = require('discord.js-selfbot-v13');
+const { Client } = require('discord.js-selfbot-v13'); -- ts shi is important, dont use discord.js-selfbot-v10, use v13
 const client = new Client();
 
 client.on('ready', async () => {
