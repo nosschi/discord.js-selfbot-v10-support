@@ -19,6 +19,7 @@
 
 ```sh-session
 npm install nosschi/discord.js-selfbot-v10-support
+npm install debug werift-rtp
 ```
 
 ## example
